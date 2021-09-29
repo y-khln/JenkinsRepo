@@ -1,0 +1,6 @@
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\bin\Debug\Jenkins.exe.config
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\bin\Debug\Jenkins.exe
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\bin\Debug\Jenkins.pdb
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\obj\Debug\Jenkins.exe
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\obj\Debug\Jenkins.pdb
+C:\Users\Яна\Desktop\Jen\Jenkins\Jenkins\obj\Debug\Jenkins.csprojResolveAssemblyReference.cache
